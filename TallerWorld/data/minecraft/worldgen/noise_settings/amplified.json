@@ -128,7 +128,7 @@
         },
         "when_out_of_range": 0.0,
         "input": "minecraft:y",
-        "min_inclusive": -60.0,
+        "min_inclusive": -124.0,
         "type": "minecraft:range_choice"
       },
       "type": "minecraft:interpolated"
@@ -148,7 +148,7 @@
               },
               "when_out_of_range": 0.0,
               "input": "minecraft:y",
-              "min_inclusive": -60.0,
+              "min_inclusive": -124.0,
               "type": "minecraft:range_choice"
             },
             "type": "minecraft:interpolated"
@@ -167,7 +167,7 @@
               },
               "when_out_of_range": 0.0,
               "input": "minecraft:y",
-              "min_inclusive": -60.0,
+              "min_inclusive": -124.0,
               "type": "minecraft:range_choice"
             },
             "type": "minecraft:interpolated"
@@ -4955,8 +4955,8 @@
         ]
       }
     },
-    "min_y": -64,
-    "height": 384,
+    "min_y": -128,
+    "height": 1968,
     "sampling": {
       "xz_scale": 1.0,
       "y_scale": 1.0,

@@ -5,7 +5,7 @@
   "ambient_light": 0.0,
   "respawn_anchor_works": false,
   "has_raids": true,
-  "min_y": -64,
+  "min_y": -128,
   "height": 2032,
   "natural": true,
   "coordinate_scale": 1.0,

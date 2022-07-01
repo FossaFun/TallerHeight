@@ -4,7 +4,7 @@
   "when_out_of_range": {
     "argument1": {
       "argument": {
-        "max_exclusive": 321.0,
+        "max_exclusive": 1905.0,
         "when_in_range": {
           "argument1": -0.07500000000000001,
           "argument2": {
@@ -21,7 +21,7 @@
         },
         "when_out_of_range": 0.0,
         "input": "minecraft:y",
-        "min_inclusive": -60.0,
+        "min_inclusive": -124.0,
         "type": "minecraft:range_choice"
       },
       "type": "minecraft:interpolated"
@@ -32,7 +32,7 @@
         "argument1": {
           "argument": {
             "argument": {
-              "max_exclusive": 321.0,
+              "max_exclusive": 1905.0,
               "when_in_range": {
                 "noise": "minecraft:noodle_ridge_a",
                 "xz_scale": 2.6666666666666665,
@@ -41,7 +41,7 @@
               },
               "when_out_of_range": 0.0,
               "input": "minecraft:y",
-              "min_inclusive": -60.0,
+              "min_inclusive": -124.0,
               "type": "minecraft:range_choice"
             },
             "type": "minecraft:interpolated"
@@ -51,7 +51,7 @@
         "argument2": {
           "argument": {
             "argument": {
-              "max_exclusive": 321.0,
+              "max_exclusive": 1905.0,
               "when_in_range": {
                 "noise": "minecraft:noodle_ridge_b",
                 "xz_scale": 2.6666666666666665,
@@ -60,7 +60,7 @@
               },
               "when_out_of_range": 0.0,
               "input": "minecraft:y",
-              "min_inclusive": -60.0,
+              "min_inclusive": -124.0,
               "type": "minecraft:range_choice"
             },
             "type": "minecraft:interpolated"
@@ -75,7 +75,7 @@
   },
   "input": {
     "argument": {
-      "max_exclusive": 321.0,
+      "max_exclusive": 1905.0,
       "when_in_range": {
         "noise": "minecraft:noodle",
         "xz_scale": 1.0,
@@ -84,7 +84,7 @@
       },
       "when_out_of_range": -1.0,
       "input": "minecraft:y",
-      "min_inclusive": -60.0,
+      "min_inclusive": -124.0,
       "type": "minecraft:range_choice"
     },
     "type": "minecraft:interpolated"
